@@ -1,6 +1,6 @@
 # Misuo Sales Dashboard (Excel) | لوحة تحكم مبيعات ميسو 📊
 
-(Desktop Screenshot 2026.04.13 - 19.40.57.75.png)![Misuo Dashboard]
+![Misuo Sales Dashboard](Desktop Screenshot 2026.04.13 - 19.40.57.75.png)
 
 **[English Below]**
 
