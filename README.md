@@ -1,6 +1,6 @@
 # Misuo Sales Dashboard (Excel) | لوحة تحكم مبيعات ميسو 📊
 
-![Misuo Sales Dashboard](MISUO DASHBORD.png)
+![Misuo Sales Dashboard](misuo-dashboard.png)
 
 **[English Below]**
 
